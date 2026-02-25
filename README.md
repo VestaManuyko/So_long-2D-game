@@ -6,8 +6,16 @@ A small 2D game built with MinilibX where you guide a character to collect all i
 
 ### Prerequisites
 
-This project requires **MinilibX**, **X11**, and **Xext** libraries.
-Make sure you have a C compiler (like `cc` or `gcc`) and `make` installed.
+This project uses the MiniLibX graphics library.
+
+To compile and run the game, you need:
+
+- MiniLibX installed
+- A C compiler (gcc or clang)
+- X11 libraries (Linux) or macOS system frameworks
+- Math library (libm)
+
+Without these dependencies, the project will not compile.
 
 ### Installation
 
