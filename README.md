@@ -21,7 +21,7 @@ Without these dependencies, the project will not compile.
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:VestaManuyko/So_long-2D-game.git
    cd so_long
    ```
 
@@ -86,7 +86,3 @@ Maps must be rectangular and surrounded by walls. Examples can be found in the `
 - **Bonus Features**:
     - Sprite animations for the player.
     - Move counter display on the screen.
-
-## 👨‍💻 Author
-
-- **vmanuyko**
